@@ -1,4 +1,4 @@
-name := "scala-eclipse-test"
+name := "scala-eclipse-bootstrap"
 
 version := "1.0"
 
